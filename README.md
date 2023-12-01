@@ -2,6 +2,6 @@
 
 <div>
   <a href =""></a>
-  <img heigth = "180em" src ="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight">
+  <img heigth = "180em" src ="https://github-readme-stats.vercel.app/api?username=dihsantos&show_icons=true&theme=tokyonight">
 </div>
 
