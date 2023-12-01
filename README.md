@@ -16,7 +16,7 @@
 ##
 
 <div>
-  <a href="www.linkedin.com/in/dinah-nadine-8a222984"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="hhttps://www.linkedin.com/in/dinah-nadine-8a222984"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="mailto:nadisantos123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div> 
