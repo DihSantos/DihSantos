@@ -18,7 +18,7 @@
   <img align = "center" alt = "ang" heigth = "15" width = "30" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg'>
   <img align = "center" alt = "ang" heigth = "15" width = "30" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg'>
   <img align = "center" alt = "ang" heigth = "15" width = "30" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg'>
-  <img align = "center" alt = "ang" heigth = "15" width = "30" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg'>
+  <!--<img align = "center" alt = "ang" heigth = "15" width = "30" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg'>-->
   <img align = "center" alt = "ang" heigth = "15" width = "30" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg'>
 </div>
 
