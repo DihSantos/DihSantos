@@ -7,6 +7,7 @@
   <a href = "https://github.com/dihsantos">
   <img heigth = "180em" src = "https://github-readme-stats.vercel.app/api?username=dihsantos&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img heigth = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dihsantos&layout=compact&lang_counts=8&theme=jolly"/>
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=dihsantos&repo=dihsantos&show_owner=true"/>
 </div>
 
 ##
