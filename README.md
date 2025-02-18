@@ -24,3 +24,10 @@
   <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=dihsantos&theme=jolly&show_icons=true"/>
   <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dihsantos&theme=jolly&layout=compact"/>
 </div>
+
+---
+### Conecte-se comigo
+
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nadisantos123@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinah-nadine-8a222984)
